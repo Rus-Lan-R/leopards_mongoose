@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "eslint-plugin-prettier": "^3.4.0",
+    "mongoose": "^5.12.13"
+  }
+}
